@@ -1,13 +1,7 @@
 # Created by Shivendra Mall
 
-# The variable CC specifies which compiler will be used.
-# (because different unix systems may use different compilers)
 CC=gcc
 
-# The variable CFLAGS specifies compiler options
-#   -c :    Only compile (don't link)
-#   -Wall:  Enable all warnings about lazy / dangerous C programming 
-#   -std=c99: Using newer C99 version of C programming language
 CFLAGS = -c -Wall -Wextra -std=c99 -O1
 
 # All of the .h header files to use as dependencies

@@ -1,7 +1,4 @@
-# Created by Bikram Ce on 4/25/20.
-# Copyright © 2020 Bikram Ce. All rights reserved.
-# connect4.h
-# Connect Four
+# Created by Shivendra Mall
 
 .globl main
 .text
